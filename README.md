@@ -6,8 +6,10 @@
 
 The script simply scrapes all the comics on the site and saves it to a folder within the same directory.
 
-You can clone the repo and run it as such:
+Clone the repo: `git clone https://github.com/tonykipkemboi/xkcdComics.git`
 
-`python app.py`
+Install all required libraries by running: `pip install -r requirements.txt`
+
+Finally run the code: `python app.py`
 
 Happy comicking!
